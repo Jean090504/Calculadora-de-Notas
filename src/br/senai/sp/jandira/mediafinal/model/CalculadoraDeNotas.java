@@ -41,9 +41,9 @@ public class CalculadoraDeNotas {
     public void calcularDados(){
         mediaDoAluno = (nota1Aluno + nota2Aluno + nota3Aluno + nota4aluno) / 4;
 
-        if (mediaDoAluno >= 7){
+        if (mediaDoAluno >= 5){
            resultadoDeAprovacao = "Aprovado";
-        } else if (mediaDoAluno >=5 && mediaDoAluno < 7){
+        } else if (mediaDoAluno > 4 && mediaDoAluno < 5){
             resultadoDeAprovacao = "Recuperação";
         } else{
             resultadoDeAprovacao = "Reprovado";
