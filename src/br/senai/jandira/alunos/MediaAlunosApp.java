@@ -1,5 +1,8 @@
-public class Main {
+package br.senai.jandira.alunos;
 
+import br.senai.jandira.alunos.model.CalculadoraDeNotas;
+
+public class MediaAlunosApp {
     public static void main(String[] args) {
         System.out.println("Iniciando a aplicacão...");
 
@@ -7,5 +10,4 @@ public class Main {
 
         calculadoradenotasnew.entradaDeDados();
     }
-
 }
