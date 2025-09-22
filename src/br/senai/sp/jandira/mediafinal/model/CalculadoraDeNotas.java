@@ -1,4 +1,4 @@
-package br.senai.jandira.alunos.model;
+package br.senai.sp.jandira.mediafinal.model;
 
 import java.util.Scanner;
 

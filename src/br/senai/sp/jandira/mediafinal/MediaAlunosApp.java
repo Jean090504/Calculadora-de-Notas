@@ -1,6 +1,6 @@
-package br.senai.jandira.alunos;
+package br.senai.sp.jandira.mediafinal;
 
-import br.senai.jandira.alunos.model.CalculadoraDeNotas;
+import br.senai.sp.jandira.mediafinal.model.CalculadoraDeNotas;
 
 public class MediaAlunosApp {
     public static void main(String[] args) {
