@@ -1,8 +1,14 @@
-\#Calculadora de Notas
+# Média de Alunos
 
-\##Desafio para um professor
+![](./img/print.png)
+
+## Desafio proposto: 
+    Desenvolver uma aplicação em Java para calcular a média de um aluno e determinar se ele foi aprovado.
 
 
+## Tecnologias
+* Java
+* Lógica Condicional
 
-Você foi contratado como estagiário em uma escola. O professor pediu que você criasse uma ferramenta simples para calcular a média final dos alunos e dizer se foram aprovados ou reprovados.
-
+## Autor
+[Jean Costa](<https://www.linkedin.com/in/jean090504/>)
