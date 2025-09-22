@@ -14,7 +14,7 @@ public class CalculadoraDeNotas {
     int reinicioDePrograma;
 
 
-    public void entradaDeDados(){
+    public void obterDados(){
         Scanner leitor = new Scanner(System.in);
 
         System.out.print("Insira o Nome do Aluno: ");
@@ -76,7 +76,7 @@ public class CalculadoraDeNotas {
         System.out.println("Digite '1' para sim, e '0' para finalizar o programa.");
         reinicioDePrograma = leitorInt.nextInt();
         if (reinicioDePrograma == 1) {
-            entradaDeDados();
+            obterDados();
         } else {
             System.out.println("Obrigado por usar o programa!");
             System.out.println("Finalizando o programa...");

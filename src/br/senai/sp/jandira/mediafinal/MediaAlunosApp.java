@@ -8,6 +8,6 @@ public class MediaAlunosApp {
 
         CalculadoraDeNotas calculadoradenotasnew = new CalculadoraDeNotas();
 
-        calculadoradenotasnew.entradaDeDados();
+        calculadoradenotasnew.obterDados();
     }
 }
